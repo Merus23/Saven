@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(171, 211, 214);
+}
+/*p{
+	display: block;
+	color: black;
+	text-align: center;
+	font-size: 19;
+}
+p:hover {
+	color: black;
+	font-size: 50;
+}*/
+input{
+	display: inline-block;
+	height: 55px;
+	width: 420px;
+	margin: 25px auto 15px 90px;
+	border-radius: 30px;
+	padding: 15px;
+	background-color: white;
+}
+h3{
+	margin-left: 45px;
+	margin: 18px 18px 18px 45px;
+}
+div#corpo-form{
+	background-color: rgb(171, 211, 300);
+	width: 600px;
+	margin: 150px auto 0px auto;
+	border-radius: 30px;
+	color: black;
+}
+select{
+	background-color: white;	
+	display: inline-block;
+	height: 55px;
+	width: 420px;
+	border-radius: 30px;
+}
+table{
+	display: table;
+	text-align: center;
+	width: 450px;
+	margin-left: 70px;
+	border: 1px solid black;
+	border-radius: 30px;
+}
+#mais_espaco{
+	display: table;
+	text-align: center;
+	width: 500px;
+	margin-left: 70px;
+	border: 1px solid black;
+	border-radius: 30px;
+}

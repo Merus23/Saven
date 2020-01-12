@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(171, 211, 214);
+}
+/*p{
+	display: block;
+	color: black;
+	text-align: center;
+	font-size: 19;
+}
+p:hover {
+	color: black;
+	font-size: 50;
+}*/
+input{
+	display: inline-block;
+	height: 55px;
+	width: 420px;
+	margin: 25px auto 15px auto;
+	border-radius: 30px;
+	padding: 15px;
+	background-color: white;
+}
+div#corpo-form{
+	background-color: rgb(171, 211, 300);
+	width: 420px;
+	margin: 150px auto 0px auto;
+	border-radius: 30px;
+	color: rgb(102, 102, 102);
+}
+select{
+	background-color: white;	
+	display: inline-block;
+	height: 55px;
+	width: 420px;
+	border-radius: 30px;
+}
+.option{
+
+}
